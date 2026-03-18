@@ -33,6 +33,7 @@ O projeto foi estruturado em camadas:
 npm install
 npm run dev
 ```
+
 ## 📸 Preview
 
-![preview](./screenshot.png)
+![preview](./Screenshot_1.png)
